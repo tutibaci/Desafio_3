@@ -1,0 +1,161 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+ background-color: black;
+ height: 73px;   
+ text-align: center;
+ overflow: hidden;
+}
+
+header h1{
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 11.5px;
+}
+
+#slider {
+    height: 727px;
+    background-image: url(../IMG/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.descripcion-iguana {
+    height: 348px;
+    background-color: black;
+    overflow: hidden;
+    
+}
+
+.orden-descripcion-parrafo {
+    display: inline-block;
+    width: 475px;
+    margin: 90px 150px;
+    padding: 20px;
+}
+
+
+
+p {
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    padding: 76px auto;
+    width: 50%;
+    
+}
+
+.foto1-descripcion {
+    width: 399px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 45px;
+
+}
+
+
+.caracteristicas-iguana {
+    height: 348px;
+    background-color: #1E1A13;
+    overflow: hidden;
+}
+
+.caracteristicas-h2-seccion2{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    padding: 75px 460px 0px 460px
+}
+
+.vector-ojo {
+    font-size: 40px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 50px 30px 0px 30px;
+}
+
+.texto-ojo {
+    float: left;
+    width: 30%;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 30px
+
+}
+
+.vector-paz {
+    font-size: 40px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+
+.texto-paz {
+    float: left;
+    width: 30%;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.vector-pincel {
+    font-size: 40px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin: 50px 30px 0px 30px;
+}
+
+.texto-pincel {
+    float: left;
+    width: 30%;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+
+.seccion-imagenes {
+    background-color: black;
+    height: 348px;
+
+}
+
+.iguana-puente {
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-left: 250px;
+}
+
+.iguana-dinosaurio {
+    width: 316px;
+    height: 202px;
+    margin: 20px 10px 0px 10px;
+}
+
+.iguanas-grupo {
+    width: 316px;
+    height: 202px;
+    margin-top: 73px;
+    margin-right: 150px;
+}
+
+.footer-detalles{
+    background-color: #1E1A13;
+    height: 102px;
+    overflow: hidden;
+
+}
+
+.caracteristicas-texto-footer {
+    margin: 39px 450px;
+}
